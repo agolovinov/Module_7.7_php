@@ -6,4 +6,34 @@
 .input-window {
     text-align: end;
     font-size: x-large;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: beige;
+}
+
+.btn {
+    width: 60px;
+    height: 60px;
+    border-radius: 30%;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    background-color: lightgrey;
+    font-size: 200%;
+}
+
+#calc {
+    background-color: lightsalmon;
+}
+
+#btn_calc {
+    width: 137px;
+    margin-right: 7px;
+}
+
+#clear {
+    text-align: right;
+}
+
+#btn_clr {
+    margin-right: 7px;
 }
